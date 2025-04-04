@@ -1,0 +1,11 @@
+/* Estilos básicos para o componente de leitura QR */
+video {
+    width: 100%;
+    max-width: 600px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    background-color: #000;
+  }
+  
+  /* Você pode incluir outros estilos para o container se necessário */
+  
