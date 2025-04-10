@@ -1,5 +1,5 @@
 {
-    "name": "adianti/plugins",
+    "name": "kpize/leitorqrcode",
     "description": "Leitor Universão de codigos de Barras qr codes e etc",
     "type": "library",
     "license": "MIT",
